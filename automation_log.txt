@@ -1,0 +1,13 @@
+2024-05-18 18:48:19,417 - INFO - ====== WebDriver manager ======
+2024-05-18 18:48:41,289 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-18 18:48:42,068 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-18 18:48:42,834 - INFO - There is no [win64] chromedriver "125.0.6422.60" for browser google-chrome "125.0.6422" in cache
+2024-05-18 18:48:42,835 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-18 18:48:44,418 - INFO - WebDriver version 125.0.6422.60 selected
+2024-05-18 18:48:44,424 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/125.0.6422.60/win32/chromedriver-win32.zip
+2024-05-18 18:48:44,425 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/125.0.6422.60/win32/chromedriver-win32.zip
+2024-05-18 18:48:45,311 - INFO - Driver downloading response is 200
+2024-05-18 18:48:48,161 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-18 18:48:49,077 - INFO - Driver has been saved in cache [C:\Users\user\.wdm\drivers\chromedriver\win64\125.0.6422.60]
+2024-05-18 18:49:00,466 - INFO - HTTP Response Code: 200
+2024-05-18 18:49:00,467 - INFO - Response Time: 9.49940013885498 seconds
